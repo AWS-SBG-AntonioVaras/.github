@@ -14,8 +14,6 @@
   />
 </picture>
 
-AWS Student Builder Group — Antonio Varas. El primer SBG del Cono Sur. Aprendemos, experimentamos y creamos en la nube.
-
 ---
 
 ## Cómo Unirte
